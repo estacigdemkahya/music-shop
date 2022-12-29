@@ -1,0 +1,34 @@
+body {
+    background: #a3a8ae;
+
+}
+
+a {
+    color: orangered;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: #17bb40;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+
+}
+
+
+
+p {
+    text-align: center;
+}
+
